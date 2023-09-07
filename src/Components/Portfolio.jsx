@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/bananas.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "bananas image its soo cool and sweet";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My App Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my app website where i upload my apps and write its learning",
+    url: "https://abdullahkhanspn.github.io/this-is-my-project-/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Cgpa calculator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is made by me to calculate the cgpa of the college students ",
+    url: "https://abdullahkhanspn.github.io/cgpa-calculator/",
   },
   {
-    title: "My Resume Site",
+    title: "My youtube link video ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is the video where i am review my new book",
+    url: "https://youtu.be/_3aPJC4Sj5w?si=4C1hUufROefyTYhA",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "my count count app site",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "this is the app made using java and counts the number of click by a users i upload this on github",
+    url: "https://abdullahkhanspn.github.io/my-count-count-app/",
   },
 ];
 
